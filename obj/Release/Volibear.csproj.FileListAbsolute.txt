@@ -1,0 +1,10 @@
+C:\Users\Jeremy\Desktop\TheVi\Volibear\bin\Release\Volibear.exe.config
+C:\Users\Jeremy\Desktop\TheVi\Volibear\bin\Release\Volibear.exe
+C:\Users\Jeremy\Desktop\TheVi\Volibear\bin\Release\Volibear.pdb
+C:\Users\Jeremy\Desktop\TheVi\Volibear\bin\Release\EloBuddy.dll
+C:\Users\Jeremy\Desktop\TheVi\Volibear\bin\Release\EloBuddy.SDK.dll
+C:\Users\Jeremy\Desktop\TheVi\Volibear\bin\Release\SharpDX.dll
+C:\Users\Jeremy\Desktop\TheVi\Volibear\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Jeremy\Desktop\TheVi\Volibear\bin\Release\Newtonsoft.Json.dll
+C:\Users\Jeremy\Desktop\TheVi\Volibear\obj\Release\Volibear.exe
+C:\Users\Jeremy\Desktop\TheVi\Volibear\obj\Release\Volibear.pdb
